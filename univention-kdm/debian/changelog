@@ -1,0 +1,47 @@
+univention-kdm (3.0.0-2) unstable; urgency=low
+
+  * Bug #43470: Handle UCRV */autostart through systemd
+
+ -- Philipp Hahn <hahn@univention.de>  Wed, 15 Mar 2017 08:52:56 +0100
+
+univention-kdm (3.0.0-1) unstable; urgency=medium
+
+  * Bug #41963: UCS-4.2 version bump
+
+ -- Philipp Hahn <hahn@univention.de>  Fri, 12 Aug 2016 13:59:17 +0200
+
+univention-kdm (2.0.1-1) unstable; urgency=medium
+
+  * Bump version for UCS 4.1 (Bug #39729)
+
+ -- Stefan Gohmann <gohmann@univention.de>  Tue, 03 Nov 2015 22:06:28 +0100
+
+univention-kdm (1.0.0-5) unstable; urgency=low
+
+  * theme update (Bug #35936) 
+
+ -- Felix Botner <botner@univention.de>  Mon, 20 Oct 2014 11:59:48 +0200
+
+univention-kdm (1.0.0-4) unstable; urgency=low
+
+  * theme update (Bug #35936) 
+
+ -- Felix Botner <botner@univention.de>  Fri, 26 Sep 2014 12:52:28 +0200
+
+univention-kdm (1.0.0-3) unstable; urgency=low
+
+  * theme update (Bug #35936) 
+
+ -- Felix Botner <botner@univention.de>  Fri, 26 Sep 2014 09:41:55 +0200
+
+univention-kdm (1.0.0-2) unstable; urgency=low
+
+  * added theme/config (Bug #35936) 
+
+ -- Felix Botner <botner@univention.de>  Fri, 19 Sep 2014 10:54:05 +0200
+
+univention-kdm (1.0.0-1) unstable; urgency=low
+
+  * new kdm theme (Bug #35936)
+
+ -- Felix Botner <botner@univention.de>  Fri, 19 Sep 2014 09:46:00 +0200
